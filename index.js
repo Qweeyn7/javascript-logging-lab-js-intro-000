@@ -1,1 +1,1 @@
-console.ehrror()
+console.error
